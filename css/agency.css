@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #CC7000;
     background-attachment: scroll;
-    background-image: url("../img/white1.jpg.");
+    background-image: url("../img/white1.jpg");
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
