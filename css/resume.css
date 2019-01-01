@@ -33,7 +33,7 @@ h1 {
   font-size: 5rem;
   line-height: 4.5rem;
   /*color: rgb(134,142,150);*/
-  color: #74776B;
+  color: #C0C0C0;
 }
 
 h2 {
@@ -183,7 +183,7 @@ section.resume-section .resume-item .resume-date {
 
 .bg-primary {
   /*background-color: rgb(134,142,150) !important;*/
-  background-color: #74776B !important;
+  background-color: #C0C0C0 !important;
 }
 
 .text-primary {
